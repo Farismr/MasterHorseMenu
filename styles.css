@@ -325,6 +325,7 @@ body.page-4 {
     }
     .whitener {
         height: 100px; /* גובה קטן יותר למסכים קטנים */
+        width: 120px;
     }
     .name {
         font-size: 0.9rem; /* טקסט קטן יותר למסכים קטנים */
